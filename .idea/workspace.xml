@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43d7d1ea-fcbf-4cb6-bcc8-9fff76429cd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Homework1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework1/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="43d7d1ea-fcbf-4cb6-bcc8-9fff76429cd6" name="Changes" comment="мой первый комит" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,8 +54,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674335792360</updated>
-      <workItem from="1674335793512" duration="694000" />
+      <workItem from="1674335793512" duration="1027000" />
     </task>
+    <task id="LOCAL-00001" summary="мой первый комит">
+      <created>1674336598309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674336598309</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +79,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="мой первый комит" />
+    <option name="LAST_COMMIT_MESSAGE" value="мой первый комит" />
   </component>
 </project>
